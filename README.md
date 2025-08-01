@@ -29,4 +29,4 @@ Idziemy utartymi ścieżkami. We wtorki spotkania online o 18:00 w formie warszt
 
 Harmonogram spotkań znajdziesz pod tym [linkiem](https://zalnet.pl/pl/sierpniowe-kolonie-azure/).
 
-![Pszczoła NTHW](https://github/beatazalewa/Sierpniowe-kolonie-na-chmurze-Azure-2025\images\Pszczoła_Azure_NTHW.webp)
+![Pszczoła NTHW](https://github.com/beatazalewa/Sierpniowe-kolonie-na-chmurze-Azure-2025/blob/main/images/Pszczo%C5%82a_Azure_NTHW.webp)
