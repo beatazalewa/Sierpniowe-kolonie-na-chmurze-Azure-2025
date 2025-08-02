@@ -1,4 +1,4 @@
-### Przerwarzanie w chmurze 
+### Przetwarzanie w chmurze 
 Definicja przetwarzania w chmurze
 "Przetwarzanie w chmurze polega na dostarczaniu usług obliczeniowych — obejmujących serwery, pamięć masową, bazy danych, sieć, oprogramowanie, analizy i informacje — za pośrednictwem Internetu („chmury”) w celu zapewnienia szybszych innowacji, elastycznych zasobów i korzyści skali. Zwykle płacisz tylko za używane usługi w chmurze, co pomaga obniżyć koszty operacyjne, wydajniej korzystać z infrastruktury i przeprowadzać skalowanie zgodnie ze zmianami zachodzącymi w firmie." - [link do źródła](https://azure.microsoft.com/pl-pl/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Przetwarzanie%20w%20chmurze%20polega%20na,elastycznych%20zasob%C3%B3w%20i%20korzy%C5%9Bci%20skali.)
 
