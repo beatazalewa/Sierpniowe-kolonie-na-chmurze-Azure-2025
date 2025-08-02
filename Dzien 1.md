@@ -1,4 +1,4 @@
-### Podstaw
+### Podstawy platformy Microsoft Azure
 
 1. Virtual datacenter tour | Azure global infrastructure - [link](https://datacenters.microsoft.com/globe/explore/datacenter/)
 2. Microsoft Azure Data Center Virtual Tour | WE LIVE IN THE CLOUD | Az-900 | Azure Fundamentals - [link](https://www.youtube.com/watch?v=UzjbKjUOQnQ)
@@ -16,3 +16,5 @@
 14. What are Azure regions? - [link](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
 15. Azure Datacenter for Startups — Aaron Crawfis - [link](https://www.youtube.com/watch?v=EqUbWFRM_SA)
 16. Kamala Harris o chmurze - [link](https://www.youtube.com/shorts/p6SAxNbA8n4)
+
+17. Prezentacja z sesji - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2001.08.2025)
