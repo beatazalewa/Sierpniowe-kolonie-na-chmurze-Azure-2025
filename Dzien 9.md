@@ -10,7 +10,7 @@
 ### Artykuły
 1. Describe Azure storage services - [link](https://learn.microsoft.com/pl-pl/training/modules/describe-azure-storage-services/)
 2. Azure Blob Storage documentation - [link](https://learn.microsoft.com/en-us/azure/storage/blobs/)
-3.Azure Storage Services | Blob, Disk, File and Archive - [link](https://marczak.io/az-900/#ep11)   
+3. Azure Storage Services | Blob, Disk, File and Archive - [link](https://marczak.io/az-900/#ep11)   
 
 ### Nagrania
 1. AZ-900 Azure storage (4 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-4)
