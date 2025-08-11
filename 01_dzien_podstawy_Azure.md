@@ -20,7 +20,7 @@
 1. Azure Datacenter for Startups — Aaron Crawfis - [link](https://www.youtube.com/watch?v=EqUbWFRM_SA)
 2. Kamala Harris o chmurze - [link](https://www.youtube.com/shorts/p6SAxNbA8n4)
 
-### Materiały ze spotkania
+### Materiały ze spotkania online
 1. [Odcinek 1] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=x8i96pejSzE)
 2. Prezentacja z sesji - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2001.08.2025)
 
