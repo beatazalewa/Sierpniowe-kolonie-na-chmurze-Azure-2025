@@ -10,5 +10,5 @@ Definicja przetwarzania w chmurze
 
 ### Nagrania
 1. [30 minutowe nagranie w języku angielskim] - Moduł wprowadzający w tematykę przewarzania w chmurze. Zawiera takie tematy jak koncepcje chmury, modele wdrażania, wspóldzielona odpowiedzialność w chmurze - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-1)
-2. [10 minutowe nagranie w języku angielskim od Adam Marczak] AZ-900 Episode 1 | Cloud Computing and Vocabulary - [link](https://www.youtube.com/watch?v=Pt9LelJ0fL0)
-3. [5 mminutowe nagranie w języku angielskim od Adam Marczak] AZ-900 Episode 2 | Principle of economies of scale | Microsoft Azure Fundamentals Full Course - [link](https://www.youtube.com/watch?v=TMynEWIE3SM)
+2. [Nagranie od Adam Marczak] Cloud Computing and Vocabulary - [link](https://www.youtube.com/watch?v=Pt9LelJ0fL0)
+3. [Nagranie od Adam Marczak] Principle of economies of scale - [link](https://www.youtube.com/watch?v=TMynEWIE3SM)
