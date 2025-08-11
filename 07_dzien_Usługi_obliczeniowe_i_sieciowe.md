@@ -1,0 +1,30 @@
+## Usługi obliczeniowe i sieciowe platformy Azure
+
+### Praktyczne ćwiczenia do wykonania
+1. Exercise - Create a VM using the Azure portal - [link](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/3-create-a-vm)
+2. Create and deploy VM Application - [link](https://learn.microsoft.com/en-us/azure/virtual-machines/vm-applications-how-to?tabs=cli%2Cportal1%2Cportal2%2Cportal3%2Cpowershell4)
+3. Exercise - Create a Windows virtual machine - [link](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/3-exercise-create-a-vm)
+4. Exercise - Connect to a Windows virtual machine using RDP - [link](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/5-exercise-connect-to-a-windows-vm-using-rdp)
+5. Build and run a web application with the MEAN stack on an Azure Linux virtual machine - [link](https://learn.microsoft.com/en-us/training/modules/build-a-web-app-with-mean-on-a-linux-vm/)
+6. Exercise - Create an Azure virtual machine - [link](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine)
+7. Exercise - Configure network access - [link](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/9-exercise-configure-network-access)
+8. Create a virtual machine in the portal - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%201)
+9. Create a virtual network - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%204) 
+10. Create a VM with a template – [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%209) 
+11. Secure network traffic - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%2013)
+
+### Artykuły
+1. Describe Azure compute and networking services - [link](https://learn.microsoft.com/pl-pl/training/modules/describe-azure-compute-networking-services/)
+2. Azure Compute Services | Virtual Machine, VM Scale Set, App Service, Functions, Container Instances, Kubernetes Service - [link](https://marczak.io/az-900/#ep09)
+3. Azure Networking Services | Virtual Network, Load Balancer, VPN Gateway, Application Gateway, CDN - [link](https://marczak.io/az-900/#ep10)
+4. Virtual machines in Azure - [link](https://learn.microsoft.com/en-us/azure/virtual-machines/overview)
+5. Virtual machines documentation - [link](https://learn.microsoft.com/en-us/azure/virtual-machines/)
+6. Introduction to Azure virtual machines - [link](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-virtual-machines/)
+7. Plan your Linux environment in Azure - [link](https://learn.microsoft.com/en-us/training/modules/plan-your-linux-environment-in-azure/)
+8. Create a Windows virtual machine in Azure - [link](https://learn.microsoft.com/en-us/training/modules/create-windows-virtual-machine-in-azure/)
+9. Azure networking documentation - [link](https://learn.microsoft.com/en-us/azure/networking/)
+10. Azure networking services overview - [link](https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview)
+
+### Nagrania
+1. AZ-900 Azure architecture and Azure compute services (2 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-2)
+2. AZ-900 Azure networking (3 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-3)
