@@ -1,5 +1,6 @@
-### Podstawy platformy Microsoft Azure
+## Podstawy platformy Microsoft Azure
 
+### Artykuły
 1. Virtual datacenter tour | Azure global infrastructure - [link](https://datacenters.microsoft.com/globe/explore/datacenter/)
 2. Microsoft Azure Data Center Virtual Tour | WE LIVE IN THE CLOUD | Az-900 | Azure Fundamentals - [link](https://www.youtube.com/watch?v=UzjbKjUOQnQ)
 3. Inside Azure Datacenters with Mark Russinovich | Ignite 2020 - [link](https://www.youtube.com/watch?v=v990MJXuj8Q)
@@ -14,7 +15,12 @@
 12. Drought-stricken Holland discovers Microsoft data center slurped 84m liters of drinking water last year - [link](https://www.datacenterdynamics.com/en/news/drought-stricken-holland-discovers-microsoft-data-center-slurped-84m-liters-of-drinking-water-last-year/)
 13. Datacenter Poland Central Warszawa - [link](https://www.datacenters.com/microsoft-azure-poland-central-warsaw)
 14. What are Azure regions? - [link](https://learn.microsoft.com/en-us/azure/reliability/regions-overview)
-15. Azure Datacenter for Startups — Aaron Crawfis - [link](https://www.youtube.com/watch?v=EqUbWFRM_SA)
-16. Kamala Harris o chmurze - [link](https://www.youtube.com/shorts/p6SAxNbA8n4)
 
-17. Prezentacja z sesji - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2001.08.2025)
+### Nagrania
+1. Azure Datacenter for Startups — Aaron Crawfis - [link](https://www.youtube.com/watch?v=EqUbWFRM_SA)
+2. Kamala Harris o chmurze - [link](https://www.youtube.com/shorts/p6SAxNbA8n4)
+
+### Materiały ze spotkania
+1. [Odcinek 1] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=x8i96pejSzE)
+2. Prezentacja z sesji - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2001.08.2025)
+
