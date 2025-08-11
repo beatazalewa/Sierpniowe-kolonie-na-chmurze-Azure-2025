@@ -20,6 +20,6 @@
 
 
 ### Nagrania
-1. AZ-900 Episode 12 | Database Services | Cosmos DB, SQL Database, Db for MySQL & PostgreSQL - [link](https://www.youtube.com/watch?v=RqD4nMyBazU)
-2. AZ-900 Episode 13 | Azure Marketplace - [link](https://www.youtube.com/watch?v=ersOL_o_lzc)
+1. Database Services | Cosmos DB, SQL Database, Db for MySQL & PostgreSQL - [link](https://www.youtube.com/watch?v=RqD4nMyBazU)
+2. Azure Marketplace - [link](https://www.youtube.com/watch?v=ersOL_o_lzc)
 3. How to use Azure SQL Databases | Azure Fundamentals - [link](https://www.youtube.com/watch?v=9ur0OpMADuM)
