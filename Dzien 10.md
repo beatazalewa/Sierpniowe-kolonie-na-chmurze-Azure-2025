@@ -6,7 +6,6 @@
 3. Exercise - Configure Azure SQL Database - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/6-exercise-configure-database)
 4. Exercise - Load data into Azure SQL Database - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/8-exercise-load-data)
 5. Create a SQL database - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%206)
-6. 
 
 ### Artykuły
 1. Databases on Azure - [link](https://azure.microsoft.com/en-us/products/category/databases)
