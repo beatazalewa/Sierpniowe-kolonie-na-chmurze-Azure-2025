@@ -14,6 +14,6 @@
 
 ### Nagrania
 1. AZ-900 Azure storage (4 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-4)
-2. AZ-900 Episode 11 | Azure Storage Services | Blob, Queue, Table, Files, Disk and Storage Tier - [link](https://www.youtube.com/watch?v=_Qlkvd4ZQuo)
+2. Azure Storage Services | Blob, Queue, Table, Files, Disk and Storage Tier - [link](https://www.youtube.com/watch?v=_Qlkvd4ZQuo)
 
 
