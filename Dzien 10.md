@@ -17,7 +17,7 @@
 6. Introduction to the Azure SQL family of products - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-intro/)
 7. Plan, deploy, and verify Azure SQL - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/2-plan-deploy-verify)
 8. Configure Azure SQL Database and Azure SQL Managed Instance - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/5-configure-database)
-9. Load data into Azure SQL - [link] (https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/7-load-data)
+9. Load data into Azure SQL - [link](https://learn.microsoft.com/en-us/training/modules/azure-sql-deploy-configure/7-load-data)
 
 
 ### Nagrania
