@@ -18,5 +18,5 @@
 8. Introduction to Azure Web Application Firewall - [link](https://learn.microsoft.com/en-us/training/modules/introduction-azure-web-application-firewall/)
 
 ### Nagrania
-1. AZ-900 Episode 17 | Azure Serverless Computing Services | Functions, Logic Apps, Event Grid - [link](https://www.youtube.com/watch?v=ansa4M7iTmg)
+1. Azure Serverless Computing Services | Functions, Logic Apps, Event Grid - [link](https://www.youtube.com/watch?v=ansa4M7iTmg)
 2. Azure App Service Web Apps - [link](https://learn.microsoft.com/en-us/shows/azure-friday/azure-app-service-web-apps)
