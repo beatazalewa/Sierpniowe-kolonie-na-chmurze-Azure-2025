@@ -9,11 +9,14 @@
 ### Artykuły
 1. Describe features and tools for managing and deploying Azure resources - [link](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/)
 2. Azure Tools | Portal, PowerShell, CLI and CloudShell - [link](https://marczak.io/az-900/#ep19)
-3. Azure Advisor - [link](https://marczak.io/az-900/#ep20)
+3. AZ900:2024 Describe Azure management and governance (30–35%) - [link](https://runninghill.co.za/blog/az9002024-describe-azure-management-and-governance-30-35)
 4. Azure Command-Line Interface (CLI) documentation - [link](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest&viewFallbackFrom=azure-cli-latest%3Fwt.mc_id%3Daz-mvp-5003556)
 5. Azure PowerShell documentation - [link](https://learn.microsoft.com/en-us/powershell/azure/?view=azps-14.3.0&viewFallbackFrom=azps-4.7.0%3Fwt.mc_id%3Daz-mvp-5003556)
 6. What is Azure Cloud Shell? - [link](https://learn.microsoft.com/en-us/azure/cloud-shell/overview?WT.mc_id=AZ-MVP-5003556)
+7. Azure Tools for Visual Studio Code - [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 
 ### Nagrania
 1. Azure Tools | Azure Portal, CLI, PowerShell & Cloud Shell - [link](https://www.youtube.com/watch?v=8JHY0xPssb8)
 2. Azure Advisor - [link](https://www.youtube.com/watch?v=58_6MkB2znI)
+3. Azure Fundamentals EP9: Azure Management Tools - [link](https://www.youtube.com/watch?v=C2KhpmVbpXI)
+4. Management and Deployment Tools in Azure | AZ-900 Microsoft Azure Fundamentals - [link](https://www.youtube.com/watch?v=xqOkWKbU0V4)
