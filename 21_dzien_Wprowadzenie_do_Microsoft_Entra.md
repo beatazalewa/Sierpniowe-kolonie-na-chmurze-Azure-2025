@@ -1,7 +1,5 @@
 ## Wprowadzenie do Microsoft Entra
 
-### Study guides - SC-900 Exam
-
 ### Artykuły
 1. Introduction to Microsoft Entra - [link])https://learn.microsoft.com/pl-pl/training/paths/describe-capabilities-of-microsoft-identity-access/) 
 2. Microsoft Entra blog - [link](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity)
