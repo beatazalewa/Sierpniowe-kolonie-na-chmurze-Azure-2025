@@ -7,7 +7,6 @@
 1. Azure governance - [link](https://azure.microsoft.com/en-us/solutions/governance)
 2. Governance, security, and compliance in Azure - [link](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/govern-org-compliance?tabs=AzurePolicy)
 
-
 ### Nagrania
 1. AZ-900 Azure governance and compliance, Azure resource management, and Azure monitoring services (6 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-6) 
 2. Prelekcja Jakuba Przepióry pt. "Wstęp do cyberbezpieczeństwa" w ramach Cyber Adwentu 2024 - [link](https://www.youtube.com/watch?v=dhJCvE_Y0_I)
