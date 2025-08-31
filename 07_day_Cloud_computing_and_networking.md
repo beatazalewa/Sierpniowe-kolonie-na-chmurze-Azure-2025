@@ -30,4 +30,5 @@
 1. AZ-900 Azure architecture and Azure compute services (2 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-2)
 2. AZ-900 Azure networking (3 of 6) - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-3)
 3. AZ-900 Azure fundamentals exam content - Part 2C - Describe Azure compute and networking services - [link](https://www.youtube.com/watch?v=uDPPZLUYQR4)
-4. Networking Services | Virtual Network, VPN Gateway, CDN, Load Balancer, App GW - [link](https://www.youtube.com/watch?v=5NMcM4zJPM4&feature=youtu.be)
+4. AZ-900 Azure fundamentals exam content - Part 2D - Describe Azure compute and networking services - [link](https://www.youtube.com/watch?v=jYd6rLXjOCA)
+5. Networking Services | Virtual Network, VPN Gateway, CDN, Load Balancer, App GW - [link](https://www.youtube.com/watch?v=5NMcM4zJPM4&feature=youtu.be)
