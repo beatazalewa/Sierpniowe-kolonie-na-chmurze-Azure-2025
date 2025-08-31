@@ -1,10 +1,11 @@
 ## Spotkanie online - sesja Q&A
+## Online meeting - Q&A session
 
-### Praktyczne ćwiczenia do wykonania
+### Practical exercises
 1. Exercise - Explore the Learn sandbox - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox)
 2. Exercise - Create an Azure resource - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource)
 
-### Artykuły
+### Articles
 1. Describe Azure management infrastructure - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure)
 2. How to model and organize Azure resource groups in a microservices environment? - [link](https://www.kallemarjokorpi.fi/blog/resource-groups-and-microservices/)
 3. Microsoft Azure Offer Details - [link](https://azure.microsoft.com/en-us/support/legal/offer-details/)
@@ -31,3 +32,9 @@
 24. Describe Azure storage services - [link](https://learn.microsoft.com/training/modules/describe-azure-storage-services/4-describe-azure-storage-services)
 25. Identify Azure data migration options - [link](https://learn.microsoft.com/en-gb/training/modules/describe-azure-storage-services/6-identify-azure-data-migration-options)
 26. Identify Azure file movement options - [link](https://learn.microsoft.com/en-gb/training/modules/describe-azure-storage-services/7-identify-azure-file-movement-options)
+
+### Nagrania ze spotkania online (PL)
+1. [Odcinek 3] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=3fqQalXfvW0)
+
+### Slides (EN)
+2. Slides from the session - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2008.08.2025)
