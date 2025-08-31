@@ -1,6 +1,7 @@
-## 
+## Wprowadzenie do pojęć związanych z zabezpieczeniami, zgodnością i tożsamościami
+## Describe concepts of security compliance identity
 
-### Artykuły
+### Articles (EN)
 1. Describe concepts of security compliance identity - [link](https://learn.microsoft.com/pl-pl/training/paths/describe-concepts-of-security-compliance-identity/) 
 2. What is Microsoft Defender for Cloud? - [link](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
 3. What Is a Cloud Workload Protection Platform (CWPP) - [link](https://www.tigera.io/learn/guides/cnapp/cwpp/)
@@ -17,5 +18,11 @@
 14. What is Microsoft Defender Threat Intelligence (Defender TI)? - [link](https://learn.microsoft.com/en-us/defender/threat-intelligence/what-is-microsoft-defender-threat-intelligence-defender-ti)
 15. Microsoft Copilot in Microsoft Defender - [link](https://learn.microsoft.com/en-us/defender-xdr/security-copilot-in-microsoft-365-defender)
 
-### Nagrania
+### Recordings (EN)
 1. Ask the Expert: Microsoft Sentinel: A Modern SIEM with SOAR, TI, and UEBA - [link](https://learn.microsoft.com/en-us/shows/ask-the-expert/ask-the-expert-microsoft-sentinel-a-modern-siem-with-soar-ti-and-ueba)
+
+### Nagranie ze spotkania online (PL)
+1. [Odcinek 4] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=CfvzlB2ov7w)
+
+### Slides (EN)
+1. Slides from the session - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2019.08.2025)
