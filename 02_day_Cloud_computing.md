@@ -13,3 +13,6 @@
 1. **AZ-900 Cloud fundamentals (1 of 6)** with Alexandra Zakharova. On Demand Instructor-led Training Series. This module introduces you to cloud computing. It covers things such as cloud concepts, deployment models, and understanding shared responsibility in the cloud - [link](https://learn.microsoft.com/en-us/shows/on-demand-instructor-led-training-series/az-900-module-1)
 2. Cloud Computing and Vocabulary - [link](https://www.youtube.com/watch?v=Pt9LelJ0fL0)
 3. Principle of economies of scale - [link](https://www.youtube.com/watch?v=TMynEWIE3SM)
+4. AZ-900 Azure fundamentals exam content - Part 1 - Describe cloud computing - [link](https://www.youtube.com/watch?v=aQPHqc_fB9g)
+5. AZ-900 Azure fundamentals exam content - Part 1A - Describe cloud computing - [link](https://www.youtube.com/watch?v=UTbn-y--oks)
+6. 
