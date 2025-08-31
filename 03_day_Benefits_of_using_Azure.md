@@ -20,3 +20,4 @@ Dostęp do firmowych danych przez 24h/7? Możliwość niezwłocznego udostępnie
 
 ### Recordings (EN)
 1. CapEx vs OpEx and their differences - [link](https://www.youtube.com/watch?v=7KEygnLtRyE)
+2. AZ-900 Azure fundamentals exam content - Part 1B - Describe the benefits of using cloud services - [link](https://www.youtube.com/watch?v=-yYAVy7dDv0)
