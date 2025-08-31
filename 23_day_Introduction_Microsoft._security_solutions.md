@@ -5,7 +5,6 @@
 1. Introduction to Microsoft security solutions -[link](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 2. Microsoft Security: Architecture, Tools, and Technologies - [link](https://www.bluevoyant.com/knowledge-center/microsoft-security-architecture-tools-and-technologies)
 
-
 ### Recordings (EN)
 1. Describe the capabilities of Microsoft security solutions part 1 of 3 SC 900 - [link](https://www.youtube.com/watch?v=n9PnSYdPxEo)
 2. Describe the capabilities of Microsoft security solutions (part 2 of 3) SC-900 - [link](https://www.youtube.com/watch?v=m6fwSxM4z1s)
