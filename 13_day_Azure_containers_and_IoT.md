@@ -1,9 +1,10 @@
-## Kontenery na chmurze Azure i IoT
+## Kontenery na chmurze Azure i Azure IoT
+## Azure containers and Azure IoT
 
-### Praktyczne ćwiczenia do wykonania
+### Practical exercises (EN)
 1. Implement Azure IoT hub - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%207) 
 
-### Artykuły
+### Articles (EN)
 1. Introduction to Docker containers - [link](https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/)
 2. Build a containerized web application with Docker - [link](https://learn.microsoft.com/en-us/training/modules/intro-to-containers/)
 3. Build and store container images with Azure Container Registry - [link](https://learn.microsoft.com/en-us/training/modules/build-and-store-container-images/)
@@ -16,6 +17,6 @@
 10. Azure IoT documentation - [link](https://learn.microsoft.com/en-us/azure/iot/)
 11. Introduction to Azure IoT for Beginners - [link](https://shiftasia.com/community/introduction-to-azure-iot-for-beginners/)
 
-### Nagrania
+### Recording (EN)
 1. Introduction to Azure IoT | Azure IoT Tutorial For Beginners - [link](https://www.youtube.com/watch?v=dmplliAVndM)
 2. Getting Started with Azure Kubernetes Service (AKS) - [link](https://www.youtube.com/watch?v=_JPZbNplWvc)
