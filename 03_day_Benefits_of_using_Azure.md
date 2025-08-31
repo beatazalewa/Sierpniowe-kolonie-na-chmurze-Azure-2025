@@ -7,7 +7,7 @@ Dostęp do firmowych danych przez 24h/7? Możliwość niezwłocznego udostępnie
 1. 6 najważniejszych zalet chmury - [link](https://main.pl/6-najwazniejszych-zalet-chmury-cloud-computing/)
 2. Chmura obliczeniowa – co to jest i jakie daje korzyści? Definicja, przykłady i statystyki - [link](https://unicard.pl/blog/chmura-obliczeniowa-co-to-jest-i-jakie-daje-korzysci-definicja-przyklady-i-statystyki/)
 3. Zalety i wady pracy w chmurze - [link](https://lemonpro.com/blog/zalety-i-wady-pracy-w-chmurze/)
-4. Zalety i wady chmury - [link](https://www.fregata.net/artykuly/prywatnosc-danych/zalety-i-wady-chmury
+4. Zalety i wady chmury - [link](https://www.fregata.net/artykuly/prywatnosc-danych/zalety-i-wady-chmury)
 
 ### Articles (EN)
 1. Benefits of cloud computing and cloud technology - [link](https://www.microsoft.com/en-us/windows-365/cloud-computing-advantages)
