@@ -1,6 +1,7 @@
-## Tworzenie prostej aplikacji internetowej
+## Środowisko aplikacji internetowych i składowe
+## Web apps environments and elements
 
-### Praktyczne ćwiczenia do wykonania
+### Practical exercises (EN)
 1. Deploy Azure Container Instances - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%203)
 2. Implement Azure Key Vault - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%2012)
 3. Implement Azure Functions - [link](https://mslearn.cloudguides.com/en-us/guides/AZ-900%20Exam%20Guide%20-%20Azure%20Fundamentals%20Exercise%208)
@@ -9,7 +10,7 @@
 6. Exercise - Get blob references - [link](https://learn.microsoft.com/en-us/training/modules/store-app-data-with-azure-blob-storage/6-getting-blob-references?pivots=csharp)
 7. Exercise - Blob uploads and downloads - [link](https://learn.microsoft.com/en-us/training/modules/store-app-data-with-azure-blob-storage/7-blob-uploads-and-downloads?pivots=csharp)
 
-### Artykuły
+### Articles (EN)
 1. Configure your App Service or Azure Functions app to use Microsoft Entra sign-in - [link](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?tabs=workforce-configuration)
 2. Azure App Service Networking - [link](https://medium.com/@mgbecken/azure-app-service-networking-b61944247432)
 3. Configure an App Service app - [link](https://learn.microsoft.com/en-us/azure/app-service/configure-common?tabs=portal)
@@ -28,6 +29,11 @@
 16. UI for Azure Cosmos DB. Powers the Azure Portal, [CosmosDB portal](https://cosmos.azure.com/), and the Cosmos DB Emulator - [link](https://github.com/Azure/cosmos-explorer)
 17. Azure Cosmos DB Blog - [link](https://devblogs.microsoft.com/cosmosdb/page/18/)
 
-
-### Nagrania
+### Recordings (EN)
 1. Azure Friday - [link](https://learn.microsoft.com/en-us/shows/azure-friday/)
+
+### Nagranie ze spotkania online (PL)
+1. [Odcinek 3] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=3fqQalXfvW0)
+
+### Slides (EN)
+1. Slides from the session - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2008.08.2025)
