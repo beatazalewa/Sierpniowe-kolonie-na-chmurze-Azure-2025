@@ -1,6 +1,7 @@
 ## Wprowadzenie do usług Microsoft Priva i Microsoft Purview
+## Introduction to Microsoft Priva and Microsoft Purview 
 
-### Artykuły
+### Articles (EN)
 1. Introduction to Microsoft Priva and Microsoft Purview - [link](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
 2. Microsoft Priva - [link](https://www.microsoft.com/en-us/security/business/microsoft-priva)
 3. Learn about Microsoft Priva - [link](https://learn.microsoft.com/en-us/privacy/priva/priva-overview)
@@ -10,7 +11,7 @@
 7. Microsoft Purview Documentation - [link](https://learn.microsoft.com/en-us/purview/)
 8. What is Microsoft Purview? - [link](https://www.mimecast.com/blog/microsoft-purview/)
 
-### Nagrania
+### Recordings (EN)
 1. Getting started with Microsoft Priva in Microsoft 365 - [link](https://www.youtube.com/watch?v=HjHJywr-dLQ)
 2. Microsoft Priva - Privacy Management - [link](https://www.youtube.com/live/P1DyeADwpGQ)
 3. Microsoft Priva - Data Privacy Management - [link](https://www.youtube.com/watch?v=ifw_vQszfcE)
