@@ -1,11 +1,11 @@
 ## Narzędzia do monitorowania na platformie Azure
+## Monitoring tools in Azure
 
-### Praktyczne ćwiczenia do wykonania
+### Practical exercices (EN)
 1. Exercise - Troubleshoot a network by using Network Watcher monitoring and diagnostic tools - [link](https://learn.microsoft.com/en-us/training/modules/troubleshoot-azure-network-infrastructure/3-exercise-troubleshoot-networking-with-network-watcher)
 2. Exercise - Troubleshoot a network by using Network Watcher metrics and logs - [link](https://learn.microsoft.com/en-us/training/modules/troubleshoot-azure-network-infrastructure/5-exercise-troubleshoot-networking-with-network-watcher-metrics-logs)
 
-
-## Artykuły
+## Articles (EN)
 1. Describe monitoring tools in Azure - [link](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/)
 2. Azure Service Health - [link](https://azure.microsoft.com/en-us/get-started/azure-portal/service-health)
 3. Azure Service Health documentation - [link](https://learn.microsoft.com/en-us/azure/service-health/)
@@ -21,7 +21,7 @@
 Design a solution to log and monitor Azure resources - [link](https://learn.microsoft.com/en-us/training/modules/design-solution-to-log-monitor-azure-resources/)
 13. Design and implement network monitoring - [link](https://learn.microsoft.com/en-us/training/modules/design-implement-network-monitoring/)
 
-## Nagrania
+## Recordings (EN)
 1. Azure Master Class v2 - Module 10 - Monitoring & Security - [link](https://www.youtube.com/watch?v=gzBXFnfvoXo)
 2. Learn Live - Azure Monitoring - [link](https://www.youtube.com/watch?v=0tikuxN2LAs)
 3. Azure Advisor - [link](https://www.youtube.com/watch?v=58_6MkB2znI)
