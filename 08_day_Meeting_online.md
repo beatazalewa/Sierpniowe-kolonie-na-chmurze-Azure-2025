@@ -32,9 +32,3 @@
 24. Describe Azure storage services - [link](https://learn.microsoft.com/training/modules/describe-azure-storage-services/4-describe-azure-storage-services)
 25. Identify Azure data migration options - [link](https://learn.microsoft.com/en-gb/training/modules/describe-azure-storage-services/6-identify-azure-data-migration-options)
 26. Identify Azure file movement options - [link](https://learn.microsoft.com/en-gb/training/modules/describe-azure-storage-services/7-identify-azure-file-movement-options)
-
-### Nagrania ze spotkania online (PL)
-1. [Odcinek 3] - Sierpniowe kolonie na chmurze Azure - [link](https://www.youtube.com/watch?v=3fqQalXfvW0)
-
-### Slides (EN)
-2. Slides from the session - [link](https://github.com/beatazalewa/Conferences/tree/main/Sierpniowe%20kolonie%20na%20chmurze%20Azure%2C%2008.08.2025)
