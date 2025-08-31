@@ -26,5 +26,6 @@ Design a solution to log and monitor Azure resources - [link](https://learn.micr
 2. Learn Live - Azure Monitoring - [link](https://www.youtube.com/watch?v=0tikuxN2LAs)
 3. Azure Advisor - [link](https://www.youtube.com/watch?v=58_6MkB2znI)
 4. What to use for monitoring your applications in Azure | Azure Friday - [link](https://www.youtube.com/watch?v=Zr7LcSr6Ooo)
+5. AZ-900 Azure fundamentals exam content - Part 4D - Describe monitoring tools in Azure - [link](https://www.youtube.com/watch?v=W_TSuVJtY44)
 
 
