@@ -1,4 +1,5 @@
 ## Przykładowe testy do egzaminu AZ-900
+## Sample tests for the AZ-900 exam
 
 1. Practice Assessment for Exam AZ-900: Microsoft Azure Fundamentals - [link](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 2. Maximize Your Score: Free AZ-900 Practice Tests - [link](https://az900practicetest.com/)
