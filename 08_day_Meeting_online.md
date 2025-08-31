@@ -1,11 +1,11 @@
 ## Spotkanie online - sesja Q&A
 ## Online meeting - Q&A session
 
-### Practical exercises
+### Practical exercises (EN)
 1. Exercise - Explore the Learn sandbox - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox)
 2. Exercise - Create an Azure resource - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/7-exercise-create-azure-resource)
 
-### Articles
+### Articles (EN)
 1. Describe Azure management infrastructure - [link](https://learn.microsoft.com/en-gb/training/modules/describe-core-architectural-components-of-azure/6-describe-azure-management-infrastructure)
 2. How to model and organize Azure resource groups in a microservices environment? - [link](https://www.kallemarjokorpi.fi/blog/resource-groups-and-microservices/)
 3. Microsoft Azure Offer Details - [link](https://azure.microsoft.com/en-us/support/legal/offer-details/)
