@@ -1,4 +1,5 @@
-## Microsoft Copilot Chat
+## Wprowadzenie do Microsoft Copilot Chat
+## Introduction to Microsoft Copilot Chat
 
 ### Articles (EN)
 1. Microsoft 365 Copilot Chat - [link](https://adoption.microsoft.com/en-us/copilot-chat/)
