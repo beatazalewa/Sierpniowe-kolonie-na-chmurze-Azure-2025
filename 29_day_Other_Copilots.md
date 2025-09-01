@@ -8,7 +8,6 @@
 4. Microsoft Copilot in Azure documentation - [link](https://learn.microsoft.com/en-us/azure/copilot/)
 5. Microsoft Copilot for Azure - [link](https://er-vishalanand.medium.com/microsoft-copilot-for-azure-450a9110e1f4)
 
-
 ### Recordings (EN)
 1. How To Use Copilot in Windows 11 - Complete Beginners Guide (2025) - [link](https://www.youtube.com/watch?v=ZhU9sS2ew9Y)
 2. Top 10 Ways to Use Windows 11 Copilot (Free) - [link](https://www.youtube.com/watch?v=V-CUhfJwEAM)
